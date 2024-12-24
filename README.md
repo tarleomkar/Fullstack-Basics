@@ -59,7 +59,7 @@ npm run dev
 
 Open the application in your browser:
 
-http://localhost:5173
+http://localhost:3000
 
 Example Output 🎉
 
